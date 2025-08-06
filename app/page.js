@@ -447,7 +447,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-blue-700 mt-8 pt-8 text-center">
-            <p>&copy; {new Date().getFullYear()} Astha Aya & Driver Centre. All rights reserved. website maintained by Digital Exposure Online Services </p>
+            <p>&copy; {new Date().getFullYear()} Astha Aya & Driver Centre. All rights reserved. Website developed and maintained by Digital Exposure Online Services </p>
           </div>
         </div>
       </footer>
